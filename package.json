@@ -1,0 +1,24 @@
+{
+  "name": "shimmer-effect",
+  "version": "1.0.0",
+  "description": "Shimmer effect package helps to use and remove shimmer effect in any element of your website easily.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pranshu1852/Shimmer-Effect.git"
+  },
+  "keywords": [
+    "Shimmer",
+    "effect"
+  ],
+  "author": "Pranshu Patel",
+  "license": "ISC",
+  "types": "./script.d.ts",
+  "bugs": {
+    "url": "https://github.com/Pranshu1852/Shimmer-Effect/issues"
+  },
+  "homepage": "https://github.com/Pranshu1852/Shimmer-Effect#readme"
+}
