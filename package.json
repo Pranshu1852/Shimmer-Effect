@@ -1,6 +1,6 @@
 {
-  "name": "shimmer-effect",
-  "version": "1.0.0",
+  "name": "@pranshupatel/shimmer-effect",
+  "version": "1.0.1",
   "description": "Shimmer effect package helps to use and remove shimmer effect in any element of your website easily.",
   "main": "script.js",
   "scripts": {
