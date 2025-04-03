@@ -1,6 +1,6 @@
 # Shimmer-Effect
 
-### Hello Everyone i created this Shimmer Effect package that can give shimmer effect.
+### Hello Everyone i created this Shimmer Effect package that can add and remove shimmer effect to the element you want in your website.
 
 ## How to Use:
 
